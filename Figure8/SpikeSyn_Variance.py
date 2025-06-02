@@ -77,3 +77,4 @@ np.savetxt('varance/vart_stf100.txt',np.array(vart_stf100)*1000)
 
 
 
+
